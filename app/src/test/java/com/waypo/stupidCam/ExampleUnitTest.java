@@ -1,4 +1,4 @@
-package com.pewds.oussa.stupidCam;
+package com.waypo.stupidCam;
 
 import org.junit.Test;
 

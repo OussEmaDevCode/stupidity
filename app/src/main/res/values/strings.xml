@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">StupidCam</string>
+    <string name="app_name">Stupid camera</string>
+    <string name="saving_image">Saving image..</string>
+    <string name="image_saved">Image saved to gallery</string>
+    <string name="sutpid_picture">stupid picture n°</string>
+    <string name="stupid_pictures">stupid pictures</string>
 </resources>

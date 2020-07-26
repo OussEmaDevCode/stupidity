@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StupidCam</string>
+    <string name="saving_image">حفظ الصورة ..</string>
+    <string name="image_saved">تم حفظ الصورة</string>
+    <string name="sutpid_picture">صورة غبية رقم </string>
+    <string name="stupid_pictures">صور غبية</string>
+</resources>

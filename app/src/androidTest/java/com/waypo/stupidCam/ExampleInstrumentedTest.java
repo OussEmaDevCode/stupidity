@@ -1,4 +1,4 @@
-package com.pewds.oussa.stupidCam;
+package com.waypo.stupidCam;
 
 import android.content.Context;
 
