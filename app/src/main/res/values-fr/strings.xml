@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">StupidCam</string>
+    <string name="app_name">Caméra inutile</string>
     <string name="saving_image">Enregistrement de l\'image..</string>
     <string name="image_saved">Image enregistrée dans la galerie</string>
     <string name="sutpid_picture">Image stupide n°</string>
